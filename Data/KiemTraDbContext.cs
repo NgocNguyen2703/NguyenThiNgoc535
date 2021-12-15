@@ -13,4 +13,6 @@ using NguyenThiNgoc535.Models;
         }
 
         public DbSet<NguyenThiNgoc535.Models.CompanyNTN535> CompanyNTN535 { get; set; }
+
+        public DbSet<NguyenThiNgoc535.Models.NTN0535> NTN0535 { get; set; }
     }
